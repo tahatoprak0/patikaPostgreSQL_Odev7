@@ -1,2 +1,2 @@
 # patikaPostgreSQL_Odev7
-patika.dev sitesinden almış olduğum SQL eğitiminin yedinci ödevi.
+*patika.dev SQl eğitimi Odev 7*
